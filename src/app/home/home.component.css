@@ -3,7 +3,10 @@
     color: aliceblue;
 }
 
+.main{
+  overflow-x: hidden;
 
+}
 figure {
   box-sizing: content-box;
   overflow: hidden;
